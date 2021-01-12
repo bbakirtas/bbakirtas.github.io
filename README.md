@@ -1,4 +1,4 @@
-# Burak Bakırtaş Notlarım
+# Yazılım Notlarım
 
 
 **Yeni yazı burada yer alıyor**

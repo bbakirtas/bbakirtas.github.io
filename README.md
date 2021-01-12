@@ -1,4 +1,4 @@
-# bbakirtas.github.io
+# Burak Bakırtaş Notlarım
 
 
 **Yeni yazı burada yer alıyor**

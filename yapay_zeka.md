@@ -1,0 +1,1 @@
+Bu sayfada Türkiye'de derin öğrenme (deep learning) alanında yapılan çalışmaları (blog yazısı, video ders, bilimsel makale, kodlar, verisetleri) görebilirsiniz. Sayfa, Deep Learning Türkiye topluluğu tarafından desteklenmektedir. 

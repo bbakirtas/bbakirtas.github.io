@@ -1,5 +1,4 @@
 # bbakirtas.github.io
 
-test
 
-buraktest
+**Yeni yazı burada yer alıyor**

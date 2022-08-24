@@ -16,11 +16,11 @@ minute: 2
 BUILD: 220623-0824 
 - Phones number of characters 4 if your phones have more edit code.
 #### Edit
-```html
+```php
 "$data = system('echo "rootpasswd" | sudo -u root -S perl /usr/share/empty/sipshow.pl');"
 ```
 
-```html
+```php
 $extension_g = substr($json[$b],0,4); // Dial Plan Number 1001 if your Dial Plan Number like 10001 change 4 to 5
 ```
 #### Add

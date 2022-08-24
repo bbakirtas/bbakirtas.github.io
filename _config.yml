@@ -1,6 +1,6 @@
 site: Burak
 title: Burak Bakırtaş
-greetings: Merhaba 👋
+greetings: Burak Bakırtaş
 description: >-
   Kişisel Blog
 lang: en-US
@@ -10,9 +10,9 @@ data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
 
 author:
-  name: gesko
-  bio: just a minimalist, personal blog
-  userpicture: 
+  name: burak
+  bio: kişisel blog
+  userpicture: https://raw.githubusercontent.com/bbakirtas/bbakirtas.github.io/main/assets/burak_.jpg
   username: bbakirtas
   github: bbakirtas
   twitter: mrbakirtas

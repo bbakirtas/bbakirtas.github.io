@@ -4,7 +4,7 @@ greetings: Merhaba 👋
 description: >-
   Kişisel Blog
 lang: en-US
-timezone:  Europe/Rome
+timezone:  Europe/Istanbul
 repo: https://github.com/DavideBrie/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname

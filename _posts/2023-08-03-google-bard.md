@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Merhab Bard
+title: Merhaba Bard
 description: Bard google ai
 summary: Google tarafından geliştirilen yapay zeka bard
 tags: blog

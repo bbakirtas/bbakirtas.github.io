@@ -58,3 +58,32 @@ işin korkutucu tarafı yanlış cevap verdin diyince yine hesaplama yapmaya ça
 
 
 Giderek korkunç bir hal almaya başladı yapay zeka....
+
+Soru : Bir kabilede kadınlar Pazartesi, Salı, Çarşamba günleri erkekler ise Perşembe, Cuma, Cumartesi günleri yalan söylemektelermiş. Diğer günlerde ise yalnızca doğruyu söylüyorlarmış. Bir gün erkeklerden biri, kadınlardan biriyle bir araya gelmiş ve sohbet etmeye başlamış. Laf arasında kadın erkeğe, bakın ne söylemiş?
+
+Kadın: Dün yalan söylüyordum.
+
+Erkek: Ben de.
+
+Bu diyolağa dayanarak, bakalım konuştukları günün hangi gün olduğunu bulabilecek misiniz?  Sizce bu diyaloğun geçtiği gün, hangi gündür?
+
+
+Bard : Diyalogdaki kadın, dün yalan söylüyordu. Bu, kadının Pazartesi, Salı veya Çarşamba günü konuştuğu anlamına gelir. Erkek de dün yalan söylüyordu. Bu, erkeğin Perşembe, Cuma veya Cumartesi günü konuştuğu anlamına gelir.
+
+Kadın ve erkeğin konuştuğu gün, hem kadının hem de erkeğin yalan söyleyebildiği bir gün olmalıdır. Bu nedenle, diyaloğun geçtiği gün Pazar günüdür.
+
+Cevap: Pazar
+
+ChatGPT : Eğer konuştukları günün hangi gün olduğunu bulmak istiyorsak, diyaloğa dayanarak şu şekilde çözebiliriz:
+
+    Kadın, "Dün yalan söylüyordum." diyor.
+    Erkek de "Ben de." şeklinde cevap veriyor.
+
+Buradan anlıyoruz ki, kadın o gün yani konuştukları gün yalan söylüyormuş. Bu da kadının konuştukları günün Pazartesi, Salı veya Çarşamba olduğu anlamına gelir, çünkü kadınlar bu günlerde yalan söylemektedirler.
+
+Şimdi, erkeğin cevabına bakalım. Erkek, "Ben de." diyor, yani o gün yalan söylemektedir. Erkekler yalan söyledikleri günler Perşembe, Cuma ve Cumartesi olduğuna göre, konuştukları gün de bu günlerden biri olmalıdır.
+
+Sonuç olarak, kadınların yalan söylediği günlerle erkeklerin yalan söylediği günlerin kesiştiği gün Perşembe günüdür. Bu yüzden bu diyaloğun geçtiği gün Perşembe günüdür.
+
+
+doğru cevap perşembe...
